@@ -6,8 +6,8 @@
 #### Overall<br>
 Crit chance does 300% damage instead of 200%.<br>
 Healing from campfire and band of regeneration is increased.<br>
-All bullets now stack up to 2000.<br>
-All placeable torches now stack up to 200.<br>
+All bullets now stack up to 2000 or higher if changed by any other mod.<br>
+All placeable torches now stack up to 200 or higher if changed by any other mod.<br>
 All drills have 33% use speed increase.<br>
 <br>
 
