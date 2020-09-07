@@ -43,6 +43,7 @@ Ammo box buff and bewitched buff now last 20 minutes instead of 10 minutes.<br>
 #### Mining Helmet<br>
 Gives night vision, spelunking and generates light when worn in armor slot.<br>
 Gives night vision when worn in vanity slot.<br>
+<br>
 
 #### Sniper Scope:<br>
 Changed recipe to also require 5 souls of sight. (Total: 1x Rifle Scope, 1x Destroyer Emblem, 5x Soul of Sight)<br>
