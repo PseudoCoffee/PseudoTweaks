@@ -27,7 +27,7 @@ Knockback values and use time will appear with their respective values as a tool
 #### Modifiers:<br>
 All 4% accessory modifiers now give 10% bonus.<br>
 All 3% accessory modifiers now give 6% bonus.<br>
-All 2% accessory modifiers now give 4% bonus.<br>
+All 2% accessory modifiers now give 3% bonus.<br>
 Arcane accesory modifier gives 100 extra mana instead of 20.<br>
 Legendary, unreal and mythical, demonic and godly have approximately 30% damage bonus instead of 15%.<br>
 Ruthless has approximately 40% damage bonus instead of 18%.<br>
