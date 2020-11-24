@@ -13,4 +13,8 @@ Added 1 new chest which will be found in dungeon.<br>
 Fixed modded chests from this mod and other mods not being destroyed when mined.<br>
 <br>
 List of all changes:<br>
-https://github.com/PseudoCoffee/PseudoTweaks/wiki#list-of-changes-for-pseudotweaks
+https://github.com/PseudoCoffee/PseudoTweaks/wiki#list-of-changes-for-pseudotweaks<br>
+<br>
+Discord server:
+<br>
+https://discord.gg/5RXy4Wr
