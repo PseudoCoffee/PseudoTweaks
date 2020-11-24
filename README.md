@@ -3,14 +3,28 @@
 
 ## Latest changes
 
-Added 2 new weapons, Railgun and RED.<br>
-Added configuration for some mod features.<br>
+Small mod of random tweaks and adds.<br>
 <br>
-Added 5 ammo types for the Railgun.<br>
+2 new bullets<br>
 <br>
-Added 1 new chest which will be found in dungeon.<br>
+2 new accessories<br>
 <br>
-Fixed modded chests from this mod and other mods not being destroyed when mined.<br>
+4 new weapons<br>
+<br>
+2 new thrown weapons<br>
+<br>
+2 new potions<br>
+<br>
+1 new flask<br>
+<br>
+2 new buffs<br>
+<br>
+3 new player inflicted debuffs<br>
+<br>
+New game mechanics:<br>
+	Overheal, all health taken when at full hp increases maxhp up to double and then slowly goes back down to normal maxhp.<br>
+<br>
+	New bullet with complete armor penetration. Armor piercing bullets completely ignore all kinds of damage reduction.<br>
 <br>
 List of all changes:<br>
 https://github.com/PseudoCoffee/PseudoTweaks/wiki#list-of-changes-for-pseudotweaks<br>
