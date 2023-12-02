@@ -27,8 +27,4 @@ New game mechanics:<br>
 	New bullet with complete armor penetration. Armor piercing bullets completely ignore all kinds of damage reduction.<br>
 <br>
 List of all changes:<br>
-https://github.com/PseudoCoffee/PseudoTweaks/wiki#list-of-changes-for-pseudotweaks<br>
-<br>
-Discord server:
-<br>
-https://discord.gg/5RXy4Wr
+https://github.com/PseudoCoffee/PseudoTweaks/wiki#list-of-changes-for-pseudotweaks
